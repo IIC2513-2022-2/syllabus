@@ -1,0 +1,31 @@
+body{
+    background-color: lightBlue;
+}
+
+header{
+    text-align: center;
+  }
+
+section ol{
+border: solid;
+}
+
+li{
+font-weight: bold;
+}
+
+img{
+width: 50%;
+margin: auto;
+display: block;
+}
+
+.titulo{
+font-weight: 100;
+}
+
+.subtitulo{
+color: #CCC233;
+}
+
+  

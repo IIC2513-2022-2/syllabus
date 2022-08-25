@@ -1,0 +1,74 @@
+/* Primero ponemos margin y padding 0 para todo el documento */
+*{
+    padding: 0;
+    margin: 0;
+}
+  
+nav{
+    width: 100%;
+    height: 80px;
+    border: solid;
+}
+  
+li{
+    float: left;
+    border: solid 1px;
+    height: 100%;
+    align-items: center;
+    display: flex;
+}
+  
+li:hover{
+    background-color: lightGrey;
+}
+  
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+  
+ul{
+    height: 100%;
+    background-color: grey;
+    list-style-type: none;
+}
+  
+section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+  
+section div{
+    border: solid;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px;
+}
+  
+section div h2{
+    text-align: center;
+}
+  
+form{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+  
+label{
+    margin-top: 10px;
+}
+  
+button{
+    margin-top: 20px;
+}
+  
+.about{
+    float: right;
+}
