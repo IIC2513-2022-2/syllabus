@@ -1,5 +1,5 @@
 # Ayudantía 1
-En esta ayudantía se hizo un repaso a HTML, HTML & CSS.
+En esta ayudantía se hizo un repaso a HTML, HTML5 & CSS.
 Se realizaron dos actividades practicas orientadas a introducir HTML & CSS y practicar para la Entrega 1.
 
 ### Links Utilizados
