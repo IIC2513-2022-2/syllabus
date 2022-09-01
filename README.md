@@ -32,6 +32,7 @@ Bienvenida/o al repositorio de las secciones 1 y 2 del curso PUC IIC2513 Tecnolo
 |:--------------------- |:-------------|
 | Trinidad Carrasco | tpcarrasco@uc.cl |
 | Cristóbal Rubio | corubio@uc.cl |
+| Heinz Busch | hwbusch@uc.cl |
 
 
 
