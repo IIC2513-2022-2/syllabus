@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>2048</title>
+</head>
+
+<body>
+    <p id="message"></p>
+    <div class="table">
+
+        <div class="line">
+            <div class="topcell">A</div>
+            <div class="topcell">B</div>
+            <div class="topcell">C</div>
+        </div>
+
+        <div class="line">
+            <div class="cell" id="A1">0</div>
+            <div class="cell" id="B1">0</div>
+            <div class="cell" id="C1">0</div>
+        </div>
+
+        <div class="line">
+            <div class="cell" id="A2">0</div>
+            <div class="cell" id="B2">0</div>
+            <div class="cell" id="C2">0</div>
+        </div>
+
+        <div class="line">
+            <div class="cell" id="A3">0</div>
+            <div class="cell" id="B3">0</div>
+            <div class="cell" id="C3">0</div>
+        </div>
+
+    </div>
+
+    <div id="buttons">
+        <input type="submit" value="+" id="button" onclick=generateNumber() />
+        <br>
+        <div>
+            <p>Celda 1</p>
+            <input type="text" id="cella" class="textinput" />
+        </div>
+        <br>
+        <div>
+            <p>Celda 2</p>
+            <input tpye="text" id="cellb" class="textinput" />
+        </div>
+        <input type="submit" onclick=sumCells() class="button" />
+
+
+    </div>
+</body>
+
+</body>
+
+</html>
