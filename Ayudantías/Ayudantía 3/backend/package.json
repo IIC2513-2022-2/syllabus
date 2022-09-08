@@ -1,0 +1,24 @@
+{
+  "name": "dcc2048",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A basic 2048 game with DCC theme",
+  "main": "index.js",
+  "repository": "git@github.com:IIC2513-2022-2/dcc2048",
+  "author": "IIC2513-2022-2",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "yarn nodemon src/app.js"
+  },
+  "dependencies": {
+    "@koa/cors": "^3.4.1",
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^12.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
