@@ -7,3 +7,6 @@ Algunas recomendaciones que no alcanzamos a mencionar en la ayudantía:
 Para cualquier duda con el código o con JavaScript en general pueden escribir una issue o escribirnos directamente a los mails:
 - visalas@uc.cl
 - drosselot@uc.cl
+
+Link de la presentación:
+https://docs.google.com/presentation/d/1md4FOvyKYVLxpxrYlZkfLBHzzuVgObSsWJKRiNazECg/edit?usp=sharing
