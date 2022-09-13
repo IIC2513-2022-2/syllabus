@@ -1,3 +1,5 @@
+# Ayudantía 2
+
 Algunas recomendaciones que no alcanzamos a mencionar en la ayudantía:
 
 1. Existen muchísimos métodos y propiedades, la página [W3Schools](https://www.w3schools.com/jsref/dom_obj_all.asp) los menciona todos. Muchos son autoexplicativos con su nombre y no se usan todos. Si es que alguna vez no encuentran el que necesitan, con una búsqueda en internet se encuentran rápidamente (en inglés es más fácil encontrarlos). 
@@ -8,5 +10,10 @@ Para cualquier duda con el código o con JavaScript en general pueden escribir u
 - visalas@uc.cl
 - drosselot@uc.cl
 
-Link de la presentación:
-https://docs.google.com/presentation/d/1md4FOvyKYVLxpxrYlZkfLBHzzuVgObSsWJKRiNazECg/edit?usp=sharing
+### Link de la presentación
+[Presentación ayudantía 2](https://docs.google.com/presentation/d/1md4FOvyKYVLxpxrYlZkfLBHzzuVgObSsWJKRiNazECg/edit?usp=sharing)
+
+### Disclaimer
+En esta ayudantía se dejó el script en head. Sin embargo, para mejorar la velocidad de display es mejor dejarlo en la parte de abajo de body ([fuente](https://www.w3schools.com/js/js_whereto.asp#:~:text=JavaScript%20in%20or%20%3C,HTML%20page%2C%20or%20in%20both.)). 
+
+
