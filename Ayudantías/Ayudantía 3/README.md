@@ -3,6 +3,9 @@
 Esta ayudantía se hizo un repaso de Event Loop, Asincronía y conexión entre cliente y servidor. Además, 
 se hizo una introducción a Koa.
 
+### Ejercicio conexión cliente servidor
+[Cápsula de apoyo implementación conexión](https://www.loom.com/share/6e62aa612747455d8fd2970b9e16ecf0)
+
 ### Links Utilizados
 
 [Presentación Utilizada](https://docs.google.com/presentation/d/1lMuMWlwCeDbtsuPbcLbWe9CP6UPogpASf2zhZAkxofo/edit?usp=sharing)
